@@ -1,0 +1,2 @@
+Maleabilidad = se puede cambiar cualquier byte sin afectar a los demás debido a que es un cifrado
+de flujo
